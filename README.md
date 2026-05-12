@@ -36,7 +36,7 @@ Tahapan yang diterapkan dalam proyek ini meliputi:
 
 5. **Evaluasi Model**  
    - Menggunakan **confusion matrix** dan metrik evaluasi berupa akurasi, presisi, recall, dan F1-score.  
-   - Melakukan analisis kritis terhadap hasil prediksi dan potensi terjadinya data leakage.
+   - Melakukan analisis kritis terhadap hasil prediksi dan potensi terjadinya *data leakage*.
 
 ---
 
