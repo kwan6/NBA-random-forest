@@ -1,4 +1,4 @@
-# NBA Random Forest
+# NBA Players Random Forest
 
 Project ini merupakan implementasi algoritma Random Forest untuk melakukan analisis dan prediksi data NBA menggunakan pendekatan machine learning. Tujuan utama dari project ini adalah mengeksplorasi bagaimana statistik pemain atau pertandingan NBA dapat digunakan untuk membangun model prediksi berbasis data. Random Forest merupakan salah satu metode ensemble learning yang banyak digunakan karena mampu menangani data kompleks dengan baik dan relatif tahan terhadap overfitting. :contentReference[oaicite:0]{index=0}
 
