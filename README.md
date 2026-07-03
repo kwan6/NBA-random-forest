@@ -1,10 +1,10 @@
 # NBA Players Random Forest
 
-Project ini merupakan implementasi algoritma Random Forest untuk melakukan analisis dan prediksi data NBA menggunakan pendekatan machine learning. Tujuan utama dari project ini adalah mengeksplorasi bagaimana statistik pemain atau pertandingan NBA dapat digunakan untuk membangun model prediksi berbasis data. Random Forest merupakan salah satu metode ensemble learning yang banyak digunakan karena mampu menangani data kompleks dengan baik dan relatif tahan terhadap overfitting. :contentReference[oaicite:0]{index=0}
+Project ini merupakan implementasi algoritma Random Forest untuk melakukan analisis dan prediksi data NBA menggunakan pendekatan machine learning. Tujuan utama dari project ini adalah mengeksplorasi bagaimana statistik pemain atau pertandingan NBA dapat digunakan untuk membangun model prediksi berbasis data. Random Forest merupakan salah satu metode ensemble learning yang banyak digunakan karena mampu menangani data kompleks dengan baik dan relatif tahan terhadap overfitting.
 
 ## Latar Belakang
 
-Dalam beberapa tahun terakhir, analisis data telah menjadi bagian penting dalam dunia olahraga, termasuk NBA. Statistik pemain dan tim dapat dimanfaatkan untuk mendapatkan insight mengenai performa pemain maupun memprediksi hasil di masa mendatang. Machine learning, khususnya Random Forest, sering digunakan dalam analisis olahraga karena mampu mempelajari pola dari data historis secara efektif. :contentReference[oaicite:1]{index=1}
+Dalam beberapa tahun terakhir, analisis data telah menjadi bagian penting dalam dunia olahraga, termasuk NBA. Statistik pemain dan tim dapat dimanfaatkan untuk mendapatkan insight mengenai performa pemain maupun memprediksi hasil di masa mendatang. Machine learning, khususnya Random Forest, sering digunakan dalam analisis olahraga karena mampu mempelajari pola dari data historis secara efektif.
 
 ## Tujuan Project
 
@@ -44,7 +44,7 @@ Model utama yang digunakan:
 
 - Random Forest
 
-Random Forest merupakan algoritma ensemble berbasis decision tree yang bekerja dengan membangun banyak pohon keputusan dan menggabungkan hasil prediksinya untuk meningkatkan akurasi model. :contentReference[oaicite:2]{index=2}
+Random Forest merupakan algoritma ensemble berbasis decision tree yang bekerja dengan membangun banyak pohon keputusan dan menggabungkan hasil prediksinya untuk meningkatkan akurasi model.
 
 ## Tools dan Library
 
